@@ -17,11 +17,11 @@ The scenario has two parts: why the persona wanted to do it (intention & goal) +
 
 DESIGN SOLUTION: SOCIAL PAGE - TRENDING, HOT & NEW, BUSINESSES SHARING INFO, FRIENDS POSTING, MAP (LIKE SNAPMAPS)
 
-1. See what restaurants are trending in a particular area
+Scenario #1: See what restaurants are trending in a particular area
+As a frequent traveler, Tyler likes to see what restaurants are popular in each 
+
+Scenario #2: See if there are any promotions currently going on for a particular celebration (ie. National Ice Cream Day)
 
 
-2. See if there are any promotions currently going on for a particular celebration (ie. National Ice Cream Day)
-
-
-3. See what new restaurants there are
+Scenario #3: See where your friends are currently eating
 
